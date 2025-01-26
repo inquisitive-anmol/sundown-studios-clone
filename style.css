@@ -418,6 +418,7 @@ nav {
   background: linear-gradient(to right, orange, orangered);
   position: absolute;
   opacity: 0;
+  background-clip: text;
   -webkit-background-clip: text;
   animation-name: load;
   animation-duration: 1s;

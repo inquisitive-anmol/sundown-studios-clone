@@ -34,10 +34,6 @@ var swiper = new Swiper(".mySwiper", {
   //   },
 });
 
-// const menu = document.querySelector(".menu");
-// const menuBtn = document.querySelector(".menu-btn");
-// const closeBtn = document.querySelector(".close-btn");
-
 const loader = document.querySelector("#loader");
 setTimeout(() => {
   loader.style.top = "-100%";
